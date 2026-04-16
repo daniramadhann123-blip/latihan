@@ -1,2 +1,3 @@
-Materi git:
-- 
+Materi 1 git
+
+Temetrius Jamel Morant
